@@ -3,9 +3,9 @@
 
 ### This is my first GitHub Repository.
 <br>
-_Author - This is I Vashu Rajak..._
+_Author_ - This is I Vashu Rajak...
 <br>
 Choosing To add some contribution on my GitHub Account ..
 <br><br>
-Thank You
+_Thank You_
 <br>
