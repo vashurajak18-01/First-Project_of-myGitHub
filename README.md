@@ -1,4 +1,4 @@
-# _First_Project_of _myGitHub_
+# _First_Project_of_myGitHub
 <br>
 
 ### This is my first GitHub Repository.
