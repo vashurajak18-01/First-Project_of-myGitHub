@@ -3,7 +3,7 @@
 
 ### _This is my first GitHub Repository._
 <br>
-Author - This is I Vashu Rajak...
+_Author - This is I Vashu Rajak..._
 <br>
 Choosing To add some contribution on my GitHub Account ..
 <br><br>
