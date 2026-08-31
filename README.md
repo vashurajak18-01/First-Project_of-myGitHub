@@ -1,7 +1,7 @@
 # _First_Project_of_myGitHub
 <br>
 
-### _This is my **first GitHub Repository.**_
+### This is my **first GitHub Repository.**
 <br>
 _Author - This is I Vashu Rajak..._
 <br>
