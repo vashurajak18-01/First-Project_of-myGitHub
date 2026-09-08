@@ -4,7 +4,7 @@ Only commit <br>
 ### This is my **first GitHub Repository.**
 Still This is my First repository...
 <br>
-_Author - This is I Vashu Rajak..._
+_Author :- This is I Vashu Rajak..._
 <br>
 Choosing **To add some contribution** on my _GitHub Account_ ..
 <br><br>
