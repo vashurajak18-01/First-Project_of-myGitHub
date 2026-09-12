@@ -1,6 +1,6 @@
 # **_First Project of myGitHub_**
 <br>
-_Only commit_ <br>
+_Only commit Repository_ <br>
 ### This is my **_first GitHub Repository._**
 Still This is my First repository...
 <br>
