@@ -9,5 +9,5 @@
 <br>
 Choosing **__To add some contribution__** on my _GitHub Account_ ..
 <br><br>
-***__Thanking You for giving your Time__***
+***___Thanking You for giving your Time___***
 <br>
