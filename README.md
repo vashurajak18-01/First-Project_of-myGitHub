@@ -5,7 +5,7 @@
 ### This is my **_first GitHub Repository._**
 **__Still This is my First repository...__**
 <br>
-**__Author :- **__This is I_** Vashu Rajak...__**
+**__Author_ :- **__This is I_** Vashu Rajak...__**
 <br>
 Choosing **__To add some contribution___** on my _GitHub Account_ ..
 <br><br>
